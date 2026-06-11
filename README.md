@@ -59,7 +59,7 @@ export_utils.py      → Export functionality
 ##  Screenshots
 
 ###  Login / Authentication
-*(Add login.png if available)*
+
 ![Login Screen](assets/login.png)
 
 ---
